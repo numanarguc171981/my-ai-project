@@ -1,5 +1,5 @@
 # Building AI Project
 
-## Summary This project explores AI concepts including neural networks and logistic regression as part of the Elements of AI course final requirement.
+## Summary This final project is a comprehensive overview of the AI concepts I have learned during the Elements of AI course. I have explored various topics including machine learning algorithms, the fundamentals of neural networks, and how data-driven models are used to make accurate predictions in real-world scenarios. This summary confirms my understanding of the course material and my ability to apply these concepts in a practical project environment.
 
-## Background I completed this project to demonstrate my understanding of AI and its practical applications.
+## Background The purpose of this project is to demonstrate my knowledge of artificial intelligence and fulfill the final requirement for the certification process. I have successfully completed all technical exercises throughout the modules.
